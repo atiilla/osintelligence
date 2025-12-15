@@ -39,3 +39,9 @@
   - Category: phone-research
   - Tags: osint, google-account, email-correlation
   - Free: true
+
+- **Ignorant** - https://github.com/megadose/ignorant
+  - Description: Command line tool to check if a phone number is used on sites like Snapchat and Instagram
+  - Category: phone-research
+  - Tags: osint, github, social-media-check
+  - Free: true
