@@ -33,3 +33,9 @@
   - Category: phone-research
   - Tags: osint, leaks, darknet
   - Free: true
+
+- **Epieos** - https://epieos.com
+  - Description: OSINT tool to retrieve Google account and calendar info linked to a phone number
+  - Category: phone-research
+  - Tags: osint, google-account, email-correlation
+  - Free: true
