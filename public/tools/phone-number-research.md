@@ -27,3 +27,9 @@
   - Category: phone-research
   - Tags: phone, osint, information-gathering
   - Free: true
+
+- **IntelX (Phone Search)** – https://intelx.io
+  - Description: Search phone numbers across leaked, indexed and public datasets
+  - Category: phone-research
+  - Tags: osint, leaks, darknet
+  - Free: true
