@@ -1530,3 +1530,9 @@
   - Category: social-media-intelligence
   - Tags: social-media-intelligence
   - Free: true
+
+- **LurkAPI** - https://lurkapi.com
+  - Description: API that returns public profiles, posts, comments and ad library results from 16 social platforms (TikTok, Instagram, YouTube, Reddit, X, Telegram and more) as JSON. It reads public pages only, without logging in to any account.
+  - Category: social-media-intelligence
+  - Tags: social-media, api, ad-library, telegram, tiktok
+  - Free: false
